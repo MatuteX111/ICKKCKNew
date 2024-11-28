@@ -534,3 +534,28 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [28Nov2024 01:12:03.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matex211 has made the advancement [Bench mk II]
 [28Nov2024 01:14:03.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matex211 has reached the goal [Hammer III (Iron)]
 [28Nov2024 01:14:26.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matex211 has reached the goal [Hammer IV (Blackstone)]
+[28Nov2024 01:23:43.973] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Matex211 lost connection: Disconnected
+[28Nov2024 01:23:43.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matex211 left the game
+[28Nov2024 01:23:43.979] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Matex211
+[28Nov2024 01:23:48.422] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LedesPeron lost connection: Disconnected
+[28Nov2024 01:23:48.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LedesPeron left the game
+[28Nov2024 01:23:48.424] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client LedesPeron
+[28Nov2024 01:23:58.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[28Nov2024 01:23:58.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[28Nov2024 01:23:58.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[28Nov2024 01:23:58.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[28Nov2024 01:23:58.221] [Physics thread/INFO] [Burger Factory/]: Deleting VSPhysicsPipelineStage resources!
+[28Nov2024 01:23:58.224] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ap/]: Physics pipeline ending
+[28Nov2024 01:23:58.270] [DefaultDispatcher-worker-3/INFO] [Burger Factory/]: VSPhysicsPipelineStage is fully deleted!
+[28Nov2024 01:23:58.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[ICKKCK]'/minecraft:overworld
+[28Nov2024 01:23:58.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[ICKKCK]'/minecraft:the_nether
+[28Nov2024 01:23:58.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[ICKKCK]'/minecraft:the_end
+[28Nov2024 01:23:58.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[ICKKCK]'/deeperdarker:otherside
+[28Nov2024 01:23:58.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[28Nov2024 01:23:58.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[28Nov2024 01:23:58.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[28Nov2024 01:23:58.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[28Nov2024 01:23:58.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[28Nov2024 01:23:58.444] [Server thread/INFO] [Framework/]: Unloading server configs...
+[28Nov2024 01:23:58.447] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[28Nov2024 01:23:58.450] [Server thread/INFO] [Framework/]: Finished unloading server configs

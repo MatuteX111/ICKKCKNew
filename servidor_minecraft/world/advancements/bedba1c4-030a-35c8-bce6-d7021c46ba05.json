@@ -10367,5 +10367,61 @@
     },
     "done": true
   },
+  "tetra:upgrades/workbench": {
+    "criteria": {
+      "hammer": "2024-11-28 01:12:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_the_recipe": "2024-11-28 01:16:06 +0000"
+    },
+    "done": true
+  },
+  "tetra:upgrades/root": {
+    "criteria": {
+      "hammer": "2024-11-28 01:10:54 +0000"
+    },
+    "done": true
+  },
+  "tetra:story/more_upgrades": {
+    "criteria": {
+      "hammer": "2024-11-28 01:10:54 +0000"
+    },
+    "done": true
+  },
+  "tetra:upgrades/double_headed": {
+    "criteria": {
+      "hammer": "2024-11-28 01:10:54 +0000"
+    },
+    "done": true
+  },
+  "tetra:upgrades/hammer_3": {
+    "criteria": {
+      "head_left": "2024-11-28 01:13:59 +0000",
+      "head_right": "2024-11-28 01:14:03 +0000"
+    },
+    "done": true
+  },
+  "tetra:upgrades/hammer_4": {
+    "criteria": {
+      "head_left": "2024-11-28 01:14:22 +0000",
+      "head_right": "2024-11-28 01:14:26 +0000"
+    },
+    "done": true
+  },
+  "tetra:recipes/workbench": {
+    "criteria": {
+      "hammer": "2024-11-28 01:12:03 +0000"
+    },
+    "done": true
+  },
+  "tetra:upgrades/repairs": {
+    "criteria": {
+      "hammer": "2024-11-28 01:10:54 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
