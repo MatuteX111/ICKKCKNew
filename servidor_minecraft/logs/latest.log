@@ -518,3 +518,22 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [29Nov2024 22:54:24.416] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
 [29Nov2024 22:54:24.436] [Server thread/WARN] [ModernFix/]: Dedicated server took 81.056 seconds to load
 [29Nov2024 22:54:24.437] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 24454
+[29Nov2024 23:19:30.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[29Nov2024 23:19:30.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[29Nov2024 23:19:30.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[29Nov2024 23:19:30.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[29Nov2024 23:19:30.304] [Physics thread/INFO] [Burger Factory/]: Deleting VSPhysicsPipelineStage resources!
+[29Nov2024 23:19:30.310] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ap/]: Physics pipeline ending
+[29Nov2024 23:19:30.326] [DefaultDispatcher-worker-2/INFO] [Burger Factory/]: VSPhysicsPipelineStage is fully deleted!
+[29Nov2024 23:19:30.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[ICKKCK]'/minecraft:overworld
+[29Nov2024 23:19:30.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[ICKKCK]'/deeperdarker:otherside
+[29Nov2024 23:19:30.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[ICKKCK]'/minecraft:the_end
+[29Nov2024 23:19:30.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[ICKKCK]'/minecraft:the_nether
+[29Nov2024 23:19:30.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[29Nov2024 23:19:30.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[29Nov2024 23:19:30.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[29Nov2024 23:19:30.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[29Nov2024 23:19:30.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[29Nov2024 23:19:30.643] [Server thread/INFO] [Framework/]: Unloading server configs...
+[29Nov2024 23:19:30.645] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[29Nov2024 23:19:30.652] [Server thread/INFO] [Framework/]: Finished unloading server configs
